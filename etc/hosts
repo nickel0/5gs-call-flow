@@ -7,7 +7,7 @@
 127.0.0.9       AUSF
 127.0.0.31      NSSF
 127.0.0.8       UPF(N4)
-103.67.220.121  UERANSIM
-103.67.220.102  free5GC
+x.x.x.x         UERANSIM
+x.x.x.x         free5GC
 255.255.255.255	broadcasthost
 ::1             localhost

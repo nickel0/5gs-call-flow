@@ -136,7 +136,6 @@ AMF<-UDM: 200 OK (1645)
 rnote right of AMF: (empty)
 end
 
-
 group Subscription to notifications of data change (TS 29.503 5.2.2.3.2)
 AMF->UDM: POST /nudm-sdm/v1/imsi-208930000000003/sdm-subscriptions (1648)
 rnote right of AMF: nfInstanceId, callbackReference, monitoredResourceUris, plmnId
